@@ -26,6 +26,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]CILLIAN MURPHY[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gUXNwadCsnFemK7OnYpw0aZW5XB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Cillian-Murphy</externallink>
+<fanart>https://i.ibb.co/PNtVBQL/Cillian-Murphy-Seated.jpg</fanart>
+<info> [COLOR red]|[/COLOR]- Cillian Murphy é um ator e músico irlandês de teatro, cinema e televisão. Desde que estreou em seu país de origem no final da década de 90, Murphy também se tornou uma presença em cinemas britânicos e americanos. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]DANNY GLOVER[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yjow3MJDkgQuHx1fCpo4FZmXZcq.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Danny-Glover</externallink>
