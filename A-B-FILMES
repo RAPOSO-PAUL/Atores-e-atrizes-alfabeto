@@ -105,3 +105,12 @@
 <info> [COLOR red]|[/COLOR]- Bradley Charles Cooper (Filadélfia, 5 de janeiro de 1975) é um ator, cineasta e produtor americano. Começou sua carreira como convidado na série de televisão Sex and the City em 1999. Após ter concluído o Mestrado em Belas Artes em Atuação na Actors Studio no ano seguinte, realizou sua primeira aparição no cinema no filme Wet Hot American Summer (2001); ganhou algum reconhecimento como Will Tippin na telessérie Alias (2001–2006). O artista fez sua estreia no cinema de Hollywood em Wedding Crashers (2005), e continuou a fazer aparições tanto filmes como em séries televisivas. -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels> 
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Brendan Fraser[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tFj5PaWWQbb8rHBBhu1EHklznph.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Brendan-Fraser</externallink>
+<fanart>https://i.ibb.co/yQRJvXB/Screenshot-24.jpg</fanart>
+<info> [COLOR red]|[/COLOR]- Brendan James Fraser (Indianapolis, 3 de dezembro de 1968) é um ator norte-americano, tendo também a nacionalidade canadense, é conhecido por estrelar diversos filmes de sucesso de aventura e comédia, como A Múmia, George, O Rei da Floresta e Viagem ao Centro da Terra. Em 2022, após anos afastado do cinema, fez seu retorno como protagonista de The Whale, filme dirigido por Darren Aronofsky e que lhe rendeu aclamação da crítica. Em 1999, Fraser estrelou o remake de A Múmia, desta vez mostrando seu talento com ação e aventura. Em 2000 participou, fazendo dublagem do personagem Sinbad: Nos limites da Aventura.</info>
+</channel>
+</channels> 
