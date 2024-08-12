@@ -8,6 +8,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Matt Damon[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ehwS5WvU5yL5vKcUEqbzGK8Fh8B.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Matt-Damon</externallink>
+<fanart>https://i.ibb.co/RY5KHVq/Matt-Damon.jpg</fanart>
+<info> [COLOR red]|[/COLOR]- Matthew "Matt" Paige Damon (Cambridge, 8 de outubro de 1970) é um ator, roteirista, produtor e filantropo norte-americano, cuja carreira foi lançada após o sucesso do filme de drama Good Will Hunting (1997) a partir do roteiro que ele co-escreveu com o amigo e ator Ben Affleck. A dupla ganhou o Oscar de melhor roteiro original e o Globo de Ouro de melhor roteiro por seu trabalho. Por sua atuação no filme, Damon recebeu indicações para o Oscar, Globo de Ouro, Satellite Award, e o Screen Actors Guild Awards de Melhor Ator. No filme "Onze Homens e Um Segredo", Damon atuou ao lado de grandes estrelas de Hollywood como George Clooney, Andy Garcia e Brad Pitt.</info>
+</channel>
+</channels> 
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]MEL GIBSON[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/SBh7NQL/Mel-Gibson.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Mel-Gibson</externallink>
