@@ -17,13 +17,13 @@
 </channels> 
 
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Channing Tatum[/COLOR][COLOR yellow] ||[/COLOR]</name>
-<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/e5p1xrGtPfpJBQR9Pt3B6W4buZP.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Channing-Tatum</externallink>
-<fanart>https://i.ibb.co/k4f6dy0/Channing-Tatum.jpg</fanart>
-<info> [COLOR red]|[/COLOR]- Channing Matthew Tatum (nascido em 26 de abril de 1980) é um ator norte-americano. Tatum fez sua estreia no cinema no drama Coach Carter (2005), e teve seu papel de destaque no filme de dança Step Up, de 2006. Ele ganhou mais atenção por seus papéis principais na comédia esportiva She's the Man (2006), na comédia dramática Magic Mike (2012) e suas sequências Magic Mike XXL (2015) e Magic Mike's Last Dance (2023), as duas últimas das quais ele também produziu, e na comédia de ação 21 Jump Street (2012) e sua sequência 22 Jump Street (2014). Tatum também apareceu como Duke no filme de ação G.I. Joe: The Rise of Cobra (2009) e sua sequência G.I. Joe.</info>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Chris Hemsworth[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/CHRIS-HEMSWORTH</externallink>
+<fanart>https://i.ibb.co/641Y9CL/Chris-Hemsworth.webp</fanart>
+<info> [COLOR red]|[/COLOR]- Christopher Hemsworth (Melbourne, 11 de agosto de 1983) é um ator australiano. Famoso por interpretar o papel de Kim Hyde na novela Home and Away, se tornou mundialmente conhecido na pele do personagem e super-herói Thor no Universo Cinematográfico Marvel. Outros trabalhos em que teve destaque, Kevin no filme Caça-Fantasmas e o caçador Eric em Branca de Neve e o Caçador e O Caçador e a Rainha do Gelo. É irmão de Liam Hemsworth e Luke Hemsworth. -[COLOR white]|[/COLOR]</info>
 </channel>
-</channels>
+</channels> 
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]CHRIS EVANS[/COLOR][COLOR yellow] ||[/COLOR]</name>
@@ -33,6 +33,15 @@
 <info> [COLOR red]|[/COLOR]- Christopher Robert Evans (Boston, 13 de junho de 1981) é um ator estadunidense. Ele começou sua carreira na série de televisão Opposite Sex (2000), e desde então apareceu em vários filmes, sendo mais conhecido por interpretar o Capitão América no Universo Cinematográfico da Marvel. Além disso, apareceu em obras como Not Another Teen Movie, Sunshine, Scott Pilgrim vs. the World, Gifted e Snowpiercer. -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels> 
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Channing Tatum[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/e5p1xrGtPfpJBQR9Pt3B6W4buZP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Channing-Tatum</externallink>
+<fanart>https://i.ibb.co/k4f6dy0/Channing-Tatum.jpg</fanart>
+<info> [COLOR red]|[/COLOR]- Channing Matthew Tatum (nascido em 26 de abril de 1980) é um ator norte-americano. Tatum fez sua estreia no cinema no drama Coach Carter (2005), e teve seu papel de destaque no filme de dança Step Up, de 2006. Ele ganhou mais atenção por seus papéis principais na comédia esportiva She's the Man (2006), na comédia dramática Magic Mike (2012) e suas sequências Magic Mike XXL (2015) e Magic Mike's Last Dance (2023), as duas últimas das quais ele também produziu, e na comédia de ação 21 Jump Street (2012) e sua sequência 22 Jump Street (2014). Tatum também apareceu como Duke no filme de ação G.I. Joe: The Rise of Cobra (2009) e sua sequência G.I. Joe.</info>
+</channel>
+</channels>
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]CHRIS PRATT[/COLOR][COLOR yellow] ||[/COLOR]</name>
