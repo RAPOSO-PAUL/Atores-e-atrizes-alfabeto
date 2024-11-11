@@ -35,6 +35,15 @@
 </channels> 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Laurence Fishburne[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/aBRISux1AGCqkFNTKHYfLcJunWA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Laurence-Fishburne</externallink>
+<fanart>https://i.ibb.co/cxfK70W/Laurence-Fishburne.png</fanart>
+<info> [COLOR red]|[/COLOR]- Ator americano de cinema e teatro, além de dramaturgo, diretor e produtor. Ele é talvez mais conhecido por seus papéis como Morpheus na trilogia de filmes de ficção científica Matrix e como o cantor e músico Ike Turner no filme biográfico de Tina Turner, O que o amor tem a ver com isso. Ele se tornou o primeiro afro-americano a retratar Otelo em um filme de um grande estúdio quando apareceu na adaptação cinematográfica de Oliver Parker de 1995 da peça de Shakespeare.</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Lupita Nyong'o[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/y40Wu1T742kynOqtwXASc5Qgm49.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Lupita-Nyong'o</externallink>
