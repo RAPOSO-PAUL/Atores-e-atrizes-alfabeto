@@ -24,3 +24,12 @@
 <info> [COLOR red]|[/COLOR]- Henry Ewan Golding (nascido em 5 de fevereiro de 1987) é um ator e apresentador de televisão malaio e britânico.  Golding é apresentador do The Travel Show da BBC desde 2014. Ele é conhecido por seu trabalho no cinema, interpretando o papel de Nick Young em Crazy Rich Asians (2018), o personagem-título da ação e aventura Snake Eyes (2021), Sean Townsend no thriller A Simple Favor (2018), e Tom na comédia romântica Last Christmas (2019), os dois últimos dirigidos por Paul Feig.</info>
 </channel>
 </channels> 
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Hugh Jackman[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/main/Henry-Golding</externallink>
+<fanart>https://i.ibb.co/NsNdB5f/Hugh-Jackman.jpg</fanart>
+<info> [COLOR red]|[/COLOR]- Hugh Michael Jackman AC (Sydney, 12 de outubro de 1968) é um ator, cantor, dublador e produtor de cinema australiano e britânico. Ele ganhou reconhecimento internacional por seus filmes em grande escala, particularmente em personagens de ação/herói ou em personagens românticos. Jackman é mundialmente conhecido por ter interpretado o personagem Wolverine na franquia X-Men. Outros filmes importantes na carreira do ator são Van Helsing: O Caçador de Monstros, Real Steel, Kate & Leopold, The Prestige, Australia, Les Misérables e Prisoners.</info>
+</channel>
+</channels> 
